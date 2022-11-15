@@ -69,7 +69,7 @@ export default function Home() {
               </p>
             <p className='text-md py-2 leading-8 text-gray-800 dark:text-white'>
               In the 9th grade, my guitar teacher introduced me to the world of programming when he showed me a program he made in Lisp that simulated
-              the card game "Set" that we always played in our free time. I decided to study <span className='text-teal-500'>Computer Science </span> 
+              the card game {"Set"} that we always played in our free time. I decided to study <span className='text-teal-500'>Computer Science </span> 
               in university because I believe programming is a superpower that I can use to make my dreams and imaginations come true.
             </p>
           </div>
